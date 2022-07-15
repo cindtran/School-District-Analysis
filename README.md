@@ -1,8 +1,8 @@
 # School-District-Analysis
 
-#Purpose
+# Purpose
 
-The purpose of this analysis is to review school district results while working with Python/Jupter Notebook. It was mentioned that there was bad and inaccurate data within the school grades.
+The purpose of this analysis is to review school district results while working with Python/Jupter Notebook. 
 
 # Results
 
